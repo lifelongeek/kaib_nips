@@ -3,7 +3,7 @@ Team kaib chatbot for conversational AI challenge
 
 How to execute?
 
-1. clone this project : git clone 
+1. clone this project : git clone https://github.com/gmkim90/kaib_nips.git
 
 2. Download & Extract model folder (~2GB, format : .zip) : 
 
