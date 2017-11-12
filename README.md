@@ -1,7 +1,7 @@
 # kaib_nips
 Team kaib chatbot for conversational AI challenge
 
-How to execute?
+Procedure
 
 1. clone this project : git clone https://github.com/gmkim90/kaib_nips.git
 
@@ -11,11 +11,14 @@ How to execute?
 
 4. Download & Extract wikipedia index folder (~300MB, format : .zip): https://drive.google.com/open?id=1pWuqOwqiCgjOPGLtemHLJdXjTf3izDBU
 
+
 * All of the above files (2~4) need to be placed in the root directory of this project.
+
 
 5. cd demo_docker/;  ./setup.sh
 
 6. Test(@AltConvaiBot) : python bot_alt.py
+   
    Official evaluation(@ConvaiBot) : python bot.py
 
 
